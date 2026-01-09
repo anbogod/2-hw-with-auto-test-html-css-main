@@ -88,7 +88,7 @@ select {
 
 .books-list {
     /* Стили для нумерованного списка во второй секции */
-    padding: 01 20px;
+    padding: 0 20px;
     font-weight: 400;
     font-size: 16px;
 }
